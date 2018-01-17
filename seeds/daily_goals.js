@@ -16,6 +16,9 @@ exports.seed = function(knex, Promise) {
         },
         {
           goal: 'Submit at least 1 job application'
+        },
+        {
+          goal: 'Meditate'
         }
       ]);
     });
